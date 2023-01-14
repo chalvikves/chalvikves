@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Viktor Vestlund
 - 👀 I’m interested in 
-  - SwiftUI
-  - Flutter
   - Python development, Machine learning and AI and leetcode 
-  - Web development 
-- 🌱 I’m currently learning SwiftUI, Flutter and React.js
+  - Flutter
+- 🌱 I’m currently learning Android, Python and Flutter 
 - 📫 You can reach me through email: vestlund.viktor@gmail.com
 
 <!---
