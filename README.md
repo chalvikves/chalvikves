@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
   - Python development, Machine learning and AI and leetcode 
   - Flutter
-- 🌱 I’m currently learning Android, Python and Flutter 
+- 🌱 I’m currently learning Python, DevOps and Flutter 
 - 📫 You can reach me through email: vestlund.viktor@gmail.com
 
 <!---
